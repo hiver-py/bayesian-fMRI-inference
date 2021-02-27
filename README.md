@@ -8,6 +8,6 @@ Non-in formative prior distributions are used for both Bayesian models.
 
 These 3 models can account for varying amounts of information in the data due to varying complexity of the covariance structure. Difference was observed in the subject specific maps, indicating that covariance should be included when making inference.
 
-<p align="center">
+
 ![fMRI](https://user-images.githubusercontent.com/73787550/109378289-9fd58280-78d1-11eb-9b9d-cc4a08b5aaaa.png")
-</p>
+
