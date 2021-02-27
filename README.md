@@ -4,7 +4,7 @@ Comparison of Bayesian and frequentist dual regression on resting state networks
 2. A Bayesian model with heteroscedastic variance and uncorrelated error terms 
 3. A Bayesian model with heteroscedastic variance and correlated error terms. 
 
-Non-in formative prior distributions are used for both Bayesian models. 
+Non-informative prior distributions are used for both Bayesian models. 
 
 These 3 models can account for varying amounts of information in the data due to varying complexity of the covariance structure. Difference was observed in the subject specific maps, indicating that covariance should be included when making inference.
 
