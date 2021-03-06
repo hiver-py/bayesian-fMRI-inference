@@ -1,7 +1,7 @@
 # bayesian-fMRI-inference
 Comparison of Bayesian and frequentist dual regression on resting state networks using three different models:
-1. A frequentist Dual Regression,
-2. A Bayesian model with heteroscedastic variance and uncorrelated error terms 
+1. A frequentist Dual Regression.
+2. A Bayesian model with heteroscedastic variance and uncorrelated error terms.
 3. A Bayesian model with heteroscedastic variance and correlated error terms. 
 
 Non-informative prior distributions are used for both Bayesian models. 
