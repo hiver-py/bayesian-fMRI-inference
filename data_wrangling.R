@@ -1,7 +1,6 @@
 ### KLAR KOD, inläsning av fMRI ### 
 
 ## Sätt upp working directory ## 
-#setwd("/home/jacni681/FMRI/CodeAndData")
 setwd("search path")
 
 ## Installerar paket ## 
